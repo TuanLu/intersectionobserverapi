@@ -1,0 +1,28 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table td {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  min-height: 35px;
+  padding: 0.5em 1em;
+  background-color: #fff;
+}
+table td.odd {
+  background-color: #ccc;
+}
+table td.even {
+  background-color: wheat;
+}
+table td.blue {
+  background-color: #ecf0f1;
+  /* transition: all 0.5 ease-in-out; */
+}
+#wrap {
+  height: 60vh;
+  width: 50vw;
+  margin: 10em auto;
+  position: relative;
+  overflow-y: scroll;
+}
