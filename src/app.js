@@ -1,7 +1,3 @@
-import {
-  demoIntersectionObserver,
-  demoIntersectionObserverTable
-} from "./observerDemo.js";
+import { demoIntersectionObserverTable } from "./observerDemo.js";
 
 demoIntersectionObserverTable();
-demoIntersectionObserver();

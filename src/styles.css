@@ -21,8 +21,8 @@ table td.blue {
 }
 #wrap {
   height: 60vh;
-  width: 50vw;
-  margin: 10em auto;
+  width: 80vw;
+  margin: 5em auto;
   position: relative;
   overflow-y: scroll;
 }
